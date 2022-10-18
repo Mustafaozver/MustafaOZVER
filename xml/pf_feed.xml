@@ -46,4 +46,50 @@
 		<Cheques><![CDATA[0]]></Cheques>
 		<Exclusive_Rights><![CDATA[No]]></Exclusive_Rights>
 	</Listing>
+		<Listing>
+		<Count><![CDATA[1]]></Count>
+		<Unit_Type><![CDATA[Apartment]]></Unit_Type>
+		<Ad_Type><![CDATA[Rent]]></Ad_Type>
+		<Emirate><![CDATA[Dubai]]></Emirate>
+		<Community><![CDATA[Remraam]]></Community>
+		<Property_Name><![CDATA[Al Ramth 28]]></Property_Name>
+		<Property_Ref_No><![CDATA[411-Ap-R-0754]]></Property_Ref_No>
+		<Price><![CDATA[40000]]></Price>
+		<Frequency><![CDATA[yearly]]></Frequency>
+		<Unit_Builtup_Area><![CDATA[800]]></Unit_Builtup_Area>
+		<No_of_Rooms><![CDATA[1]]></No_of_Rooms>
+		<No_of_Bathrooms><![CDATA[1]]></No_of_Bathrooms>
+		<Property_Title><![CDATA[Spacious|Well maintained|Family Community]]></Property_Title>
+		<Web_Remarks><![CDATA[Kingley Homes are delighted to offer you this Spacious 1 Bedroom in Remraam.<br><br>Rent- 40,000 Negotiable<br>Size: 800 Sq. ft<br><br>Outstanding Features: <br> Carrefour Super Market<br> Community Gym &amp; Fitness Center<br> Community Swimming Pools<br> Basketball Court<br> Children Shaded Play Areas<br> Tennis Court<br> Doctor on call<br> Community Mosque<br> Landscape pathways, lawns and BBQ area<br> Located on Bypass Road<br> Close to Motor City and Arabian Ranches<br> Easy access to Sheik h Zayed Road and Mohammed Bin Zayed<br><br>A great One bedroom apartment with a spacious living room and an open-plan kitchen with ample cupboards. The bedroom also has extensive built-in wardrobes and a balcony. It comes together with a laundry room and an allocated covered parking space.<br><br>Remraam provides easy access to Al Maktoum International Airport, Jebel Ali and also to Sheikh Mohammed Bin-Zayed Road, Hessa Street and Emirates Road.<br><br>For more information, please call: Neeraj Chhabria +971 55 623 1009<br>]]></Web_Remarks>
+		<Listing_Agent><![CDATA[Neeraj Chhabria]]></Listing_Agent>
+		<Listing_Agent_Phone><![CDATA[+971-55-6231009]]></Listing_Agent_Phone>
+		<Listing_Agent_Email><![CDATA[neeraj@kingleyhomes.com]]></Listing_Agent_Email>
+		<Images>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825283515_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825273945_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825273727_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_1608982527773_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825289335_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825278009_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825278099_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825278097_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825289763_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+			<ImageUrl><![CDATA[https://bcrm.s3.amazonaws.com/property/411/photos/5672/20201226_16089825282608_1925_m.jpeg?_v=1608982831]]></ImageUrl>
+		</Images>
+		<Listing_Date><![CDATA[2020-12-26 15:40:31]]></Listing_Date>
+		<Last_Updated><![CDATA[2020-12-26 15:40:31]]></Last_Updated>
+		<Facilities/>
+		<unit_measure><![CDATA[Sq.Ft.]]></unit_measure>
+		<Geopoints>
+			<Latitude><![CDATA[25.00225187]]></Latitude>
+			<Longitude><![CDATA[55.25378734]]></Longitude>
+		</Geopoints>
+		<Permit_Id><![CDATA[6527810300]]></Permit_Id>
+		<featured_on_companywebsite><![CDATA[true]]></featured_on_companywebsite>
+		<under_construction><![CDATA[false]]></under_construction>
+		<Off_Plan><![CDATA[No]]></Off_Plan>
+		<Views/>
+		<Cheques><![CDATA[0]]></Cheques>
+		<Exclusive_Rights><![CDATA[No]]></Exclusive_Rights>
+	</Listing>
 </Listings>
